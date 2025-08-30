@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Security","created":"2025-08-29","modified":"2025-08-30T11:10:20.570-04:00","published":"2025-08-29","cssclasses":""}
+{"publish":true,"title":"Security","created":"2025-08-29","modified":"2025-08-30T11:48:47.643-04:00","published":"2025-08-29","cssclasses":""}
 ---
 
 Security in Linux is extremely important to consider in every scenario, even in the home. Linux by itself is generally secure, but the more services you run that are world-exposed, the more vulnerability potentials you have open to the world as well. Some primary examples of how important security is, what potential issues could become of an insecure system could result in, and various security models, from basic to advanced methods of security will be provided within this section of this site.
@@ -29,5 +29,5 @@ As you can see from the above examples, your security is not only important to y
 This security section will help you do exactly that. Setting up a firewall is always the first and most important step of security. Expose only what you need open, and handle traffic as securely as possible, even while allowing what you want to come in for your everyday internet use. Further security hardening techniques are included to truly lock your computer down as tightly as possible but maintaining full functionality as it would normally.
 
 * [Firewall](firewall)
-* [Intrustion Detection](intrusion-detection)
+* [Intrustion Detection](ids)
 * [Software Hardening](software-hardening)
