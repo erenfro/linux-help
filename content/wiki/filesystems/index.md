@@ -1,14 +1,14 @@
 ---
-{"publish":true,"title":"Filesystems","created":"2025-08-29","modified":"2025-08-30T00:34:35.645-04:00","published":"2025-08-29","tags":["filesystems"],"cssclasses":""}
+{"publish":true,"title":"Filesystems","created":"2025-08-29","modified":"2025-08-30T11:34:59.181-04:00","published":"2025-08-29","tags":["filesystems"],"cssclasses":""}
 ---
 
 Different filesystems have many different features provided by them. The filesystems I will cover, and their features will be primarily only POSIX complaint filesystems supported by Linux.
 
 ## POSIX Filesystems
 
-* [ext2](wiki/filesystems/ext/index.md)
-* [ext3](wiki/filesystems/ext/index.md)
-* [ext4](wiki/filesystems/ext/index.md)
+* [ext2](ext)
+* [ext3](ext)
+* [ext4](ext)
 * [btrfs](btrfs)
 * xfs
 * jfs
