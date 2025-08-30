@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Wiki","created":"2025-08-29","modified":"2025-08-29T23:57:16.156-04:00","published":"2025-08-29","tags":["wiki"],"cssclasses":""}
+{"publish":true,"title":"Wiki","created":"2025-08-29","modified":"2025-08-30T00:32:18.605-04:00","published":"2025-08-29","tags":["wiki"],"cssclasses":""}
 ---
 
 Linux-Help is a community of helpful Linux users and professionals that are here to help and teach people the uses of linux for various aspects of it.
@@ -8,20 +8,20 @@ This website is intended for all audiences wanting to learn how to do practicall
 
 ## Sections
 
-* [Backup](backup)
-* [Clustering](clustering)
-* [Databases](databases)
-* [DNS](dns)
-* [Filesystems](filesystems)
-* [Hardware](hardware)
-* [Linux](linux)
-* [Logging](logging)
-* [Mail Servers](mail-servers)
-* [Monitoring](monitoring)
-* [Networking](networking)
-* [Security](security)
-* [Virtualization](virtualization)
-* [Web Servers](web-servers)
+* [Backups](/wiki/backups/)
+* [Clustering](/wiki/clustering/)
+* [Databases](/wiki/databases/)
+* [DNS](/wiki/dns/)
+* [Filesystems](/wiki/filesystems/)
+* [Hardware](/wiki/hardware/)
+* [Linux](/wiki/linux/)
+* [Logging](/wiki/logging/)
+* [Mail Servers](/wiki/mail-servers/)
+* [Monitoring](/wiki/monitoring/)
+* [Networking](/wiki/networking/)
+* [Security](/wiki/security/)
+* [Virtualization](/wiki/virtualization/)
+* [Web Servers](/wiki/web-servers/)
 
 ## Wiki Help
 
